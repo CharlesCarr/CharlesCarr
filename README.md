@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Charlie Carr (@CharlesCarr)
+- 👋 Hi, I’m Charlie Carr (@CharlesCarr - charlie-carr.com)
 - 👀 I’m interested in front-end software development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Next.js & TypeScript
 - 📫 You can reach me via email at charliecarr4@gmail.com
 
 <!---
