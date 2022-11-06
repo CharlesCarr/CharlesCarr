@@ -1,10 +1,10 @@
 Hi 👋 My name is Charlie Carr
 =============================
 
-Software Developer
-------------------
+NYC Based Software Developer
+----------------------------
 
-I am a NYC-based software developer. I am currently pursuing my next opportunity and open to both remote and in-office work. I have spent my career in tech working in enterprise software for both small startups as well as large tech corporations. After starting in software sales, my passion and curiosity for these products fueled my desire to become more technical and attend a full stack web development coding bootcamp. I recently finished my first engineering role as a front end development intern at Revelio Labs, a labor market data platform, where I actively contributed to the front end enterprise dashboard in a React/TypeScript code base.
+I am currently pursuing my next opportunity and open to both remote and in-office work. I have spent my career in tech working in enterprise software for both small startups as well as large tech corporations. After starting in software sales, my passion and curiosity for these products fueled my desire to become more technical and attend a full stack web development coding bootcamp. I recently finished my first engineering role as a front end development intern at Revelio Labs, a labor market data platform, where I actively contributed to the front end enterprise dashboard in a React/TypeScript code base.
 
 * 🌍  I'm based in New York City
 * 🖥️  See my portfolio at [charlie-carr.com](http://www.charlie-carr.com)
@@ -44,7 +44,7 @@ I am a NYC-based software developer. I am currently pursuing my next opportunity
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/CharlesCarr"><img src="https://github-readme-stats.vercel.app/api?username=CharlesCarr&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CharlesCarr's GitHub stats" /></a>
+<a href="http://www.github.com/CharlesCarr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CharlesCarr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/CharlesCarr"><img src="https://activity-graph.herokuapp.com/graph?username=CharlesCarr&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
@@ -54,9 +54,4 @@ I am a NYC-based software developer. I am currently pursuing my next opportunity
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/CharlesCarr/react-stock-chart" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CharlesCarr&repo=react-stock-chart&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/CharlesCarr/workout-v2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CharlesCarr&repo=workout-v2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<!---
-CharlesCarr/CharlesCarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div width="100%" align="center"><a href="https://github.com/CharlesCarr/workout-v2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CharlesCarr&repo=workout-v2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/CharlesCarr/react-stock-chart" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CharlesCarr&repo=react-stock-chart&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
