@@ -4,8 +4,6 @@ Hi 👋 My name is Charlie Carr
 NYC Based Software Developer
 ----------------------------
 
-I am currently pursuing my next opportunity and open to both remote and in-office work. I have spent my career in tech working in enterprise software for both small startups as well as large tech corporations. After starting in software sales, my passion and curiosity for these products fueled my desire to become more technical and attend a full stack web development coding bootcamp. I recently finished my first engineering role as a front end development intern at Revelio Labs, a labor market data platform, where I actively contributed to the front end enterprise dashboard in a React/TypeScript code base.
-
 * 🌍  I'm based in New York City
 * 🖥️  See my portfolio at [charlie-carr.com](http://www.charlie-carr.com)
 * ✉️  You can contact me at [charliecarr4@gmail.com](mailto:charliecarr4@gmail.com)
