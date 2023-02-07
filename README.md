@@ -45,11 +45,3 @@ NYC Based Software Developer
 <a href="http://www.github.com/CharlesCarr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CharlesCarr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/CharlesCarr"><img src="https://activity-graph.herokuapp.com/graph?username=CharlesCarr&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/CharlesCarr/nfl_nextgen_stats" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CharlesCarr&repo=nfl_nextgen_stats&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/CharlesCarr/next-nft-landing-page" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CharlesCarr&repo=next-nft-landing-page&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/CharlesCarr/workout-v2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CharlesCarr&repo=workout-v2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/CharlesCarr/react-stock-chart" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CharlesCarr&repo=react-stock-chart&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
