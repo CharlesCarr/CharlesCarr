@@ -5,10 +5,9 @@ NYC Based Software Developer
 ----------------------------
 
 * 🌍  I'm based in New York City
-* 🖥️  See my portfolio at [charlie-carr.com](http://www.charlie-carr.com)
+* 🖥️  See my portfolio at [charliecarr.dev](http://charliecarr.dev)
 * ✉️  You can contact me at [charliecarr4@gmail.com](mailto:charliecarr4@gmail.com)
-* 🚀  I'm currently working on [NFL AWS Next Gen Stats Dashboard](http://react-nfl.onrender.com/)
-* 🧠  I'm learning Python (as well as refining my React/Next.js skills)
+* 🚀  I'm currently building new projects with Next.js, TypeScript, Tailwind CSS, and Supabase
 
 ### Skills
 
