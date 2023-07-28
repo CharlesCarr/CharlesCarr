@@ -7,7 +7,7 @@ NYC Based Software Developer
 * 🌍  I'm based in New York City
 * 🖥️  See my portfolio at [charliecarr.dev](http://charliecarr.dev)
 * ✉️  You can contact me at [charliecarr4@gmail.com](mailto:charliecarr4@gmail.com)
-* 🚀  I'm currently building new projects with Next.js 13 app router, TypeScript, Tailwind CSS, and Supabase
+* 🚀  I'm currently building new products with Next.js 13 app router, TypeScript, Tailwind CSS, and Supabase
 
 ### Skills
 
